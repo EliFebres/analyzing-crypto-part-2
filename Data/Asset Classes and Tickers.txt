@@ -1,0 +1,12 @@
+- Stocks	SPY
+- Crypto	CRIX
+- REITS		IYR
+- Gold		GLD
+
+
+Risk-Return profile Table
+
+- Annualized Returns
+- Annualized Std
+- Annualized Sortino Ratio
+- Maximum DD
